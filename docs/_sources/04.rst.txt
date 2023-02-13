@@ -1217,7 +1217,7 @@ $$D_{r}=\\mathrm{BDCI}\\times W_{D}+\\mathrm{SPCI}\\times W_{SP}+\\mathrm{SBCI}\
 ------------------------------------------------
 .. raw:: html
 
- <p style="text-align:justify"><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1"> 在桥梁技术状况评价中，有下列情况之一时，整座桥应评为5类桥：</span>
+ <p style="text-align:justify"><a href="#id4.3.1"> 4.3.1</a> <span id="id4.3.1"> 在桥梁技术状况评价中，有下列情况之一时，整座桥应评为5类桥：</span> </p>
  <ol>
  <li>上部结构有落梁；或有梁、板断裂现象。</li>
  <li>梁式桥上部承重构件控制截面出现全截面开裂；或组合结构上部承重构件结合面开裂贯通，造成截面组合作用严重降低。</li>
@@ -1234,7 +1234,5 @@ $$D_{r}=\\mathrm{BDCI}\\times W_{D}+\\mathrm{SPCI}\\times W_{SP}+\\mathrm{SBCI}\
  <li>桥墩（桥台或基础）不稳定，出现严重滑动、下沉、位移、倾斜等现象。</li>
  <li>悬索桥、斜拉桥索塔基础出现严重沉降或位移；或悬索桥锚碇有水平位移或沉降。</li>
  </ol>
- </p>
-
 
 :math:`\ `
