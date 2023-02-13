@@ -1,0 +1,35 @@
+5 梁式桥上部结构构件技术状况评定
+======================================
+
+.. raw:: html
+
+  <h2 id="test111">5 梁式桥上部结构构件技术状况评定</h2>
+
+
+5.1 混凝土梁式桥
+--------------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id5.1.1"> 5.1.1</a> <span id="id5.1.1">钢筋混凝土或预应力混凝土梁式桥上部承重构件和上部一般构件评定指标积分及评定标准：</span></p>
+
+ 
+
+ 
+
+5.2 钢梁桥
+------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id5.2.1"> 5.2.1</a> <span id="id5.2.1">钢梁桥上部结构构件评定指标及分级评定标准：</span></p>
+
+
+5.3 支座
+----------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id5.3.1"> 5.3.1</a> <span id="id5.3.1">橡胶支座评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id5.3.2"> 5.3.2</a> <span id="id5.3.2">钢支座评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id5.3.3"> 5.3.3</a> <span id="id5.3.3">混凝土摆式支座评定指标及分级评定标准：</span></p>

@@ -1,0 +1,50 @@
+6 拱式桥上部结构构件技术状况评定
+============================================
+
+.. raw:: html
+
+  <h2 id="test111">6 拱式桥上部结构构件技术状况评定</h2>
+
+
+6.1 圬工拱桥
+--------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.1.1"> 6.1.1</a> <span id="id6.1.1"> 主拱圈评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.1.2"> 6.1.2</a> <span id="id6.1.2"> 拱上结构评定指标及分级评定标准：</span></p>
+ 
+6.2 钢筋混凝土拱桥
+------------------------
+ 
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.2.1"> 6.2.1</a> <span id="id6.2.1"> 板拱桥、肋拱桥和箱拱桥主拱圈评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.2.2"> 6.2.2</a> <span id="id6.2.2"> 板拱桥、肋拱桥和箱拱桥拱上结构评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.2.3"> 6.2.3</a> <span id="id6.2.3"> 双曲拱桥主拱圈评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.2.4"> 6.2.4</a> <span id="id6.2.4"> 双曲拱桥拱上结构评定指标及分级评定标准依照板拱桥、肋拱桥、箱拱桥拱上结构相关规定：</span></p>
+ <p style="text-align:justify"><a href="#id6.2.5"> 6.2.5</a> <span id="id6.2.5"> 刚架拱桥的刚架拱片以及微弯板评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.2.6"> 6.2.6</a> <span id="id6.2.6"> 刚架拱桥横向联结系评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.2.7"> 6.2.7</a> <span id="id6.2.7"> 桁架拱桥的桁架拱片及微弯板的评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.2.8"> 6.2.8</a> <span id="id6.2.8"> 桁架拱桥的横向联结系评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.2.9"> 6.2.9</a> <span id="id6.2.9"> 拱式桥桥面板评定指标及分级评定标准依照梁式桥上部结构构件相关规定。</span></p>    
+
+
+6.3 港——混凝土组合拱桥
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.3.1"> 6.3.1</a> <span id="id6.3.1"> 拱肋、横向联结系评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.3.2"> 6.3.2</a> <span id="id6.3.2"> 立柱评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.3.3"> 6.3.3</a> <span id="id6.3.3"> 吊杆评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.3.4"> 6.3.4</a> <span id="id6.3.4"> 系杆及防护板评定指标及分级评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id6.3.5"> 6.3.5</a> <span id="id6.3.5"> 桥面板（梁）评定指标及分级评定标准依照梁式桥上部结构构件相关规定。：</span></p>
+
+ 
+6.4 钢拱桥
+---------------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id6.4.1"> 6.4.1</a> <span id="id6.3.1"> 钢拱桥评定指标及分级评定标准</span></p>

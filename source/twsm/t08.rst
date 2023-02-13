@@ -1,0 +1,49 @@
+8 斜拉桥主要构件评定技术状况评定
+========================================
+
+.. raw:: html
+
+  <h2 id="test111">8 斜拉桥主要构件评定技术状况评定</h2>
+
+8.1 斜拉索
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.1.1"> 8.1.1</a> <span id="id8.1.1"> 斜拉索评定指标及分级评定标准：</span></p>
+ 
+8.2 斜拉索护套
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.2.1"> 8.2.1</a> <span id="id8.2.1"> 斜拉索护套评定指标及分级评定标准：</span></p>
+
+8.3 主梁
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.3.1"> 8.3.1</a> <span id="id8.3.1"> 预应力混凝土主梁评定指标及分级评定标准依照7.4.1悬索桥预应力混凝土加劲梁的相关规定。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.2"> 8.3.2</a> <span id="id8.3.2"> 钢桁架主梁评定指标及分级评定标准依照7.4.2悬索桥钢桁架加劲梁的相关规定。</span></p>
+ <p style="text-align:justify"><a href="#id8.3.3"> 8.3.3</a> <span id="id8.3.3"> 钢箱梁主梁评定指标及分级评定标准依照7.4.3悬索桥钢箱梁加劲梁的相关规定。</span></p>
+
+8.4 索塔
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.4.1"> 8.4.1</a> <span id="id8.4.1"> 索塔评定指标及分级评定标准：</span></p>
+
+8.5 锚具
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.5.1"> 8.5.1</a> <span id="id8.5.1"> 锚具评定指标及分级评定标准：</span></p>
+
+8.6 减震装置
+----------------------
+
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id8.6.1"> 8.6.1</a> <span id="id8.6.1"> 减震装置损坏评定标准见表8.6.1-1。</span></p>

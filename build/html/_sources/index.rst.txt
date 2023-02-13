@@ -5,23 +5,23 @@
 
 .. raw:: html
 
-  <b><font size="5">中华人民共和国国家标准</font></b>
+  <b><font size="5">中华人民共和国行业推荐性标准</font></b>
 
  <p></p>
 
  
-工程结构通用规范
+公路桥梁技术状况评定标准
 =========================================
 .. raw:: html
 
  <p></p>
 
-  <h1 id="test111"><font size="10"><br/><br/><br/>工程结构通用规范</font></h1>
+  <h1 id="test111" ><font size="6"><br/><br/><br/>公路桥梁技术状况评定标准</font></h1>
 
- <b><br/><br/><font size="4">General code for engineering structures</font></b>
+ <b><br/><br/><font size="3">Standards for Technical Condition Evaluation of Highway Bridges</font></b>
 
 
-  <b><br/><br/><br/><font size="4">GB55001-2021</font></b>
+  <b><br/><br/><br/><font size="4">JTG/T H21-2011</font></b>
 
  <p></p>
 
@@ -29,16 +29,16 @@
  <body>
  <table border="0" style="font-family:times new roman" >
  <tr>
- <td><font size="4"><br/><br/>主编部门:</font></td>
- <td><font size="4"><br/><br/>中华人民共和国住房和城乡建设部</font></td>
+ <td><font size="4"><br/><br/>主编单位:</font></td>
+ <td><font size="4"><br/><br/>交通运输部公路科学研究院</font></td>
  </tr>
  <tr>
  <td><font size="4"><br/>批准部门：</font></td>
- <td><font size="4"><br/>中华人民共和国住房和城乡建设部</font></td>
+ <td><font size="4"><br/>中华人民共和国交通运输部</font></td>
  </tr>
  <tr>
- <td><font size="4"><br/>施行日期：</font></td>
- <td><font size="4"><br/>2022年1月1日</font></td>
+ <td><font size="4"><br/>实施日期：</font></td>
+ <td><font size="4"><br/>2011年09月01日</font></td>
  </tr>
  </table>
 	</body>
@@ -58,8 +58,8 @@
 
 
 
- <p><b><font size="4">中国建筑工业出版社</font></b></p>
- <p><b><font size="4">2021·北京</font></b></p>
+ <p><b><font size="4">人民交通出版社</font></b></p>
+
 
 
 
@@ -69,16 +69,33 @@
     :hidden:
     
     gg
-    fztw
     qy
-    1
-    2
-    3
-    4
+    01
+    02
+    03
+    04
+    05
+    06
+    07
+    08
+    09
+    10
     FLA
-    qcsm
-    1jbqk
-    2ry
-    3sy
-    4twsm
-   
+    ycsm
+
+
+    
+.. toctree::
+    :caption: 条文说明
+    :maxdepth: 3
+    :hidden:
+    
+    twsm/t01
+    twsm/t03
+    twsm/t04
+    twsm/t05
+    twsm/t06
+    twsm/t07
+    twsm/t08
+    twsm/t09
+    twsm/t10

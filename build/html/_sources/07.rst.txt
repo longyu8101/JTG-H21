@@ -1,0 +1,71 @@
+7 悬索桥主要构建技术评定状况
+=======================================
+
+.. raw:: html
+
+  <h2 id="test111">7 悬索桥主要构建技术评定状况</h2>
+
+7.1 主缆
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.1.1"> 7.1.1</a> <span id="id7.1.1"> 主缆评定指标及分级评定标准：</span></p>
+ <ol>
+ <li style="text-align:justify">主缆防护损坏评定标准见表7.1.1-1。</li>
+ <li style="text-align:justify">主缆线形评定标准见表7.1.1-2。</li>
+ <li style="text-align:justify">扶手绳及栏杆绳损坏评定标准见表7.1.1-3。</li>
+ <li style="text-align:justify">主缆腐蚀或索股损坏（脱皮、锈蚀、伤痕）评定标准见表7.1.1-4。</li>
+ <li style="text-align:justify">涂膜劣化评定标准见表7.1.1-5。</li>
+  </ol>
+ 
+
+7.2 索夹
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.2.1"> 7.2.1</a> <span id="id7.2.1"> 索夹评定指标积分及评定标准：</span></p>
+
+
+
+7.3 吊索
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.3.1"> 7.3.1</a> <span id="id7.3.1"> 吊索评定指标积分及评定标准：</span></p>
+
+
+7.4 加劲梁
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.4.1"> 7.4.1</a> <span id="id7.4.1"> 预应力混凝土加劲梁评定指标积分及评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id7.4.2"> 7.4.2</a> <span id="id7.4.2"> 钢桁架加劲梁评定指标积分及评定标准：</span></p>
+ <p style="text-align:justify"><a href="#id7.4.3"> 7.4.3</a> <span id="id7.4.3"> 钢箱加劲梁评定指标积分及评定标准：</span></p>
+
+
+7.5 索塔
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.5.1"> 7.5.1</a> <span id="id7.5.1"> 索塔评定指标积分及评定标准：</span></p>
+
+7.6 索鞍
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.6.1"> 7.6.1</a> <span id="id7.6.1"> 索鞍评定指标积分及评定标准：</span></p>
+
+
+7.7 锚碇
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.7.1"> 7.7.1</a> <span id="id7.7.1"> 悬索桥锚碇评定指标积分及评定标准：</span></p>
+
+
+
+7.8 锚杆
+---------------------------------
+.. raw:: html
+
+ <p style="text-align:justify"><a href="#id7.8.1"> 7.8.1</a> <span id="id7.8.1"> 锚杆评定指标积分及评定标准：</span></p>
