@@ -12,21 +12,111 @@
 .. raw:: html
 
  <p style="text-align:justify"><a href="#id6.1.1"> 6.1.1</a> <span id="id6.1.1"> 主拱圈评定指标及分级评定标准：</span></p>
+ <ol>
+ <li>主拱圈变形评定标准见<a href="#B6.1.1-1">表6.1.1-1</a>。</li>
+ <li>主拱圈裂缝评定标准见<a href="#B6.1.1-2">表6.1.1-2</a>。</li>
+ <li>灰缝松散脱落评定标准见<a href="#B6.1.1-3">表6.1.1-3</a>。</li>
+ <li>渗水评定标准见<a href="#B6.1.1-4">表6.1.1-4</a>。</li>
+ <li>砌块断裂、脱落评定标准见<a href="#B6.1.1-5">表6.1.1-5</a>。</li>
+ <li>风化评定标准见<a href="#B6.1.1-6">表6.1.1-6</a>。</li>
+ <li>拱脚位移评定标准见<a href="#B6.1.1-7">表6.1.1-7</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.1.2"> 6.1.2</a> <span id="id6.1.2"> 拱上结构评定指标及分级评定标准：</span></p>
- 
+ <ol>
+ <li>实腹拱的侧墙与主拱圈脱裂评定标准见<a href="#B6.1.2-1">表6.1.2-1</a>。</li>
+ <li>实腹拱的侧墙变形、位移评定标准见<a href="#B6.1.2-2">表6.1.2-2</a>。</li>
+ <li>实腹拱的拱上填料沉陷或开裂评定标准见<a href="#B6.1.2-3">表6.1.2-3</a>。</li>
+ <li>空腹拱的腹拱或横向联结系变形、错位评定标准见<a href="#B6.1.2-4">表6.1.2-4</a>。</li>
+ <li>立墙或立柱倾斜、开裂或脱落评定标准见<a href="#B6.1.2-5">表6.1.2-5</a>。</li>
+ <li>拱上结构裂缝评定标准见<a href="#B6.1.2-6">表6.1.2-6</a>。</li>
+ <li>拱上填料排水不畅评定标准见<a href="#B6.1.2-7">表6.1.2-7</a>。</li>
+ </ol>
+
 6.2 钢筋混凝土拱桥
 ------------------------
  
 .. raw:: html
 
  <p style="text-align:justify"><a href="#id6.2.1"> 6.2.1</a> <span id="id6.2.1"> 板拱桥、肋拱桥和箱拱桥主拱圈评定指标及分级评定标准：</span></p>
+   <ol>
+ <li>主拱圈变形评定标准见<a href="#B6.2.1-1">表6.2.1-1</a>。</li>
+ <li>主拱圈裂缝评定标准见<a href="#B6.2.1-2">表6.2.1-2</a>。</li>
+ <li>渗水评定标准见表<a href="#B6.2.1-3">6.2.1-3</a>。</li>
+ <li>拱铰功能受损评定标准见<a href="#B6.2.1-4">表6.2.1-4</a>。</li>
+ <li>拱脚位移评定标准见<a href="#B6.2.1-5">表6.2.1-5</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ <li>混凝土保护层厚度评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-4">表5.1.1-4</a>。</li>
+ <li>钢筋锈蚀评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-5">表5.1.1-5</a>。</li>
+ <li>混凝上碳化评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-6">表5.1.1-6</a>。</li>
+ <li>混凝土强度评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-7">表5.1.1-7</a>。</li>
+ </ol>
+ 
  <p style="text-align:justify"><a href="#id6.2.2"> 6.2.2</a> <span id="id6.2.2"> 板拱桥、肋拱桥和箱拱桥拱上结构评定指标及分级评定标准：</span></p>
+ <ol>
+ <li>实腹拱的侧墙与主拱圈间脱裂评定标准见<a href="#B6.2.2-1">表6.2.2-1</a>。</li>
+ <li>侧墙变形评定标准见<a href="#B6.2.2-2">表6.2.2-2</a>。</li>
+ <li>拱上填料沉陷或开裂评定标准见<a href="#B6.2.2-3">表6.2.2-3</a>。</li>
+ <li>空腹拱的腹拱、横向联结系变形、错位评定标准见<a href="#B6.2.2-4">表6.2.2-4</a>。</li>
+ <li>立墙或立柱倾斜评定标准见<a href="#B6.2.2-5">表6.2.2-5</a>。</li>
+ <li>表面缺陷评定标准见<a href="#B6.2.2-6">表6.2.2-6</a>。</li>
+ <li>拱上结构裂缝评定标准见<a href="#B6.2.2-7">表6.2.2-7</a>。</li>
+ <li>拱上填料排水不畅评定标准见<a href="#B6.2.2-8">表6.1.2-8</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.2.3"> 6.2.3</a> <span id="id6.2.3"> 双曲拱桥主拱圈评定指标及分级评定标准：</span></p>
+ <ol>
+ <li>主拱同、横向联结系变形评定标准见<a href="#B6.2.3-1">表6.2.3-1</a>。</li>
+ <li>渗水评定标准见<a href="#B6.2.3-2">表6.2.3-2</a>。</li>
+ <li>主拱回裂缝评定标准见<a href="#B6.2.3-3">表6.2.3-3</a>。</li>
+ <li>拱脚位移评定标准见<a href="#B6.2.1-5">表6.2.1-5</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.2.4"> 6.2.4</a> <span id="id6.2.4"> 双曲拱桥拱上结构评定指标及分级评定标准依照板拱桥、肋拱桥、箱拱桥拱上结构相关规定：</span></p>
  <p style="text-align:justify"><a href="#id6.2.5"> 6.2.5</a> <span id="id6.2.5"> 刚架拱桥的刚架拱片以及微弯板评定指标及分级评定标准：</span></p>
+ <ol>
+ <li>跨中挠度评定标准见<a href="#B6.2.5-1">表6.2.5-1</a>。</li>
+ <li>横系梁与拱片联结松动、开裂评定标准见<a href="#B6.2.5-2">表6.2.5-2</a>。</li>
+ <li>微弯板穿孔、塌陷、露筋评定标准见<a href="#B6.2.5-3">表6.2.5-3</a>。</li>
+ <li>裂缝评定标准见<a href="#B6.2.5-4">表6.2.5-4</a>。</li>
+ <li>拱脚位移评定标准见<a href="#B6.2.5-5">表6.2.1-5</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.2.6"> 6.2.6</a> <span id="id6.2.6"> 刚架拱桥横向联结系评定指标及分级评定标准：</span></p>
+  <ol>
+ <li>混凝土压碎评定标准见<a href="#B6.2.6-1">表6.2.6-1</a>。</li>
+ <li>连接部钢板锈蚀、断裂评定标准见<a href="#B6.2.6-2">表6.2.6-2</a>。</li>
+ <li>裂缝评定标准见<a href="#B6.2.6-3">表6.2.6-3</a>。</li>
+ <li>变形评定标准见<a href="#B6.2.6-4">表6.2.6-4</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.2.7"> 6.2.7</a> <span id="id6.2.7"> 桁架拱桥的桁架拱片及微弯板的评定指标及分级评定标准：</span></p>
+  <ol>
+ <li>构件变形评定标准见<a href="#B6.2.7-1">表6.2.7-1</a>。</li>
+ <li>拱片连接处混凝土断裂评定标准见<a href="#B6.2.7-2">表6.2.7-2</a>。</li>
+ <li>上弦杆缺陷评定标准见<a href="#B6.2.7-3">表6.2.7-3</a>。</li>
+ <li>裂缝评定标准见<a href="#B6.2.7-4">表6.2.7-4</a>。</li>
+ <li>微弯板穿孔、塌陷、露筋评定标准见<a href="#B6.2.5-3">表6.2.5-3</a>。</li>
+ <li>拱脚位移评定标准见<a href="#B6.2.1-5">表6.2.1-5</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.2.8"> 6.2.8</a> <span id="id6.2.8"> 桁架拱桥的横向联结系评定指标及分级评定标准：</span></p>
+  <ol>
+ <li>变形评定标准见<a href="#B6.2.8-1">表6.2.8-1</a>。</li>
+ <li>裂缝评定标准见<a href="#B6.2.8-2">表6.2.8-2</a>。</li>
+ <li>混凝土压碎评定标准见<a href="#B6.2.6-1">表6.2.6-1</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.2.9"> 6.2.9</a> <span id="id6.2.9"> 拱式桥桥面板评定指标及分级评定标准依照梁式桥上部结构构件相关规定。</span></p>    
 
 
@@ -36,10 +126,61 @@
 .. raw:: html
 
  <p style="text-align:justify"><a href="#id6.3.1"> 6.3.1</a> <span id="id6.3.1"> 拱肋、横向联结系评定指标及分级评定标准：</span></p>
+ <ol>
+ <li>涂层缺陷评定标准见<a href="#B6.3.1-1">表6.3.1-1</a>。</li>
+ <li>焊缝开裂评定标准见<a href="#B6.3.1-2">表6.3.1-2</a>。</li>
+ <li>混凝土裂缝评定标准见<a href="#B6.3.1-3">表6.3.1-3</a>。</li>
+ <li>构件扭曲变形、局部损伤评定标准见<a href="#B6.3.1-4">表6.3.1-4</a>。</li>
+ <li>构件腐蚀、生锈评定标准见<a href="#B6.3.1-5">表6.3.1-5</a>。</li>
+ <li>管内混凝土填充不密实或脱空评定标准见<a href="#B6.3.1-6">表6.3.1-6</a>。</li>
+ <li>主拱圈挠度评定标准见<a href="#B6.3.1-7">表6.3.1-7</a>。</li>
+ <li>拱肋位移评定标准见<a href="#B6.3.1-8">表6.3.1-8</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ <li>混凝土保护层厚度评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-4">表5.1.1-4</a>。</li>
+ <li>钢筋锈蚀评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-5">表5.1.1-5</a>。</li>
+ <li>混凝土碳化评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-6">表5.1.1-6</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.3.2"> 6.3.2</a> <span id="id6.3.2"> 立柱评定指标及分级评定标准：</span></p>
+ <ol>
+ <li>混凝土裂缝评定标准见<a href="#B6.3.2-1">表6.3.2-1</a>。</li>
+ <li>涂层缺陷评定标准见<a href="#B6.3.1-1">表6.3.1-1</a>。</li>
+ <li>焊缝开裂评定标准见<a href="#B6.3.1-2">表6.3.1-2</a>。</li>
+ <li>构件扭曲变形、局部损伤评定标准见<a href="#B6.3.1-4">表6.3.1-4</a>。</li>
+ <li>构件腐蚀、生锈评定标准见<a href="#B6.3.1-5">表6.3.1-5</a>。</li>
+ <li>管内混凝土填充不密实或脱空评定标准见<a href="#B6.3.1-6">表6.3.1-6</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ <li>钢筋锈蚀评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-5">表5.1.1-5</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.3.3"> 6.3.3</a> <span id="id6.3.3"> 吊杆评定指标及分级评定标准：</span></p>
+ <ol>
+ <li>渗水（吊杆两端的锚固部位、锚头、横梁锚固构造、吊杆套管、减振器等）评定标准见<a href="#B6.3.3-1">表6.3.3-1</a>。</li>
+ <li>锈蚀（错头、螺栓、钢管护套等）评定标准见<a href="#B6.3.3-2">表6.3.3-2</a>。</li>
+ <li>错头损坏评定标准见<a href="#B6.3.3-3">表6.3.3-3</a>。</li>
+ <li>橡胶老化变质（吊杆端部及减振器）评定标准见<a href="#B6.3.3-4">表6.3.3-4</a>。</li>
+ <li>防护套损坏（吊杆端部出口处钢管护套以及钢管护套与PE护套连接处）评定标准见<a href="#B6.3.3-5">表6.3.3-5</a>。</li>
+ <li>吊杆的防护层破坏评定标准见<a href="#B6.3.3-6">表6.3.3-6</a>。</li>
+ <li>断丝评定标准见<a href="#B6.3.3-7">表6.3.3-7</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ </ol>
  <p style="text-align:justify"><a href="#id6.3.4"> 6.3.4</a> <span id="id6.3.4"> 系杆及防护板评定指标及分级评定标准：</span></p>
- <p style="text-align:justify"><a href="#id6.3.5"> 6.3.5</a> <span id="id6.3.5"> 桥面板（梁）评定指标及分级评定标准依照梁式桥上部结构构件相关规定。：</span></p>
+ <ol>
+ <li>锈蚀（锚头、防护罩、钢箱）评定标准见<a href="#B6.3.4-1">表6.3.4-1</a>。</li>
+ <li>系杆外部涂层脱落评定标准见<a href="#B6.3.4-2">表6.3.4-2</a>。</li>
+ <li>系杆连接松动评定标准见<a href="#B6.3.4-3">表6.3.4-3</a>。</li>
+ <li>错头、防护套损坏评定标准见<a href="#B6.3.4-4">表6.3.4-4</a>。</li>
+ <li>断丝评定标准见<a href="#B6.3.4-5">表6.3.4-5</a>。</li>
+ <li>混凝土裂缝（混凝土防护板、系杆锚固区等）评定标准见<a href="#B6.3.4-6">表6.3.4-6</a>。</li>
+ <li>蜂窝、麻面评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-1">表5.1.1-1</a>。</li>
+ <li>剥落、掉角评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-2">表5.1.1-2</a>。</li>
+ <li>空洞、孔洞评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.1.1-3">表5.1.1-3</a>。</li>
+ </ol>
+ <p style="text-align:justify"><a href="#id6.3.5"> 6.3.5</a> <span id="id6.3.5"> 桥面板（梁）评定指标及分级评定标准依照梁式桥上部结构构件相关规定。</span></p>
 
  
 6.4 钢拱桥
@@ -48,3 +189,14 @@
 .. raw:: html
 
  <p style="text-align:justify"><a href="#id6.4.1"> 6.4.1</a> <span id="id6.3.1"> 钢拱桥评定指标及分级评定标准</span></p>
+  <ol>
+ <li>涂层劣化评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.2.1-1">表5.2.1-1</a>。</li>
+ <li>锈蚀评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.2.1-2">表5.2.1-2</a>。</li>
+ <li>焊缝开裂评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.2.1-3">表5.2.1-3</a>。</li>
+ <li>铆钉（螺栓）损失评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.2.1-4">表5.2.1-4</a>。</li>
+ <li>构件裂缝评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.2.1-5">表5.2.1-5</a>。</li>
+ <li>跨中挠度评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.2.1-6">表5.2.1-6</a>。</li>
+ <li>构件变形评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.2.1-7">表5.2.1-7</a>。</li>
+ <li>结构变位评定标准见<a href="https://longyu8101.github.io/JTG-H21/05.html#B5.2.1-8">表5.2.1-8</a>。</li>
+ <li>拱脚位移评定标准见<a href="#B6.4.1-1">表6.4.1-1</a>。</li>
+ </ol>
