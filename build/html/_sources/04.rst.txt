@@ -37,8 +37,8 @@ $$\\mathrm{PMCI}_{l}(\\mathrm{BMCI}_{l} 或 \\mathrm{DMCI}_{l})=0$$
 
  <table border="0" style="font-family:times new roman" id="gongshi">
  <tr>
- <td width="40px" align='right' id="eqzs" >式中:</td>
- <td width="60px" align='right'  id="eqzs" >PMCI<sub><i>l</i></sub></td>
+ <td width="60px" align='right' id="eqzs" >式中:</td>
+ <td width="70px" align='right'  id="eqzs" >PMCI<sub><i>l</i></sub></td>
   <td width="40px" align='center' id="eqzs">——</td>
  <td  id="eqzs" align='left'> 上部结构第<i>i</i>类部件l构件的得分，值域为0~100分；</td>
  </tr>
