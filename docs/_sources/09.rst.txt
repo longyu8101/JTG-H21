@@ -816,7 +816,7 @@
 		    </tr>    
   		</table> 
 
- <p style="text-align:justify;text-indent:2em;font-size:10px;">注：简支梁墩台允许沉降见<a href="#B9.1.1-8">表9.1.1-8的表注</a></p> 
+ <p style="text-align:justify;text-indent:2em;font-size:10px;">注：简支梁墩台允许沉降见<a href="#B9.1.1-8">表9.1.1-8</a>的表注</a></p> 
 
    <table id="biaoge" style="font-family:times new roman">
 
