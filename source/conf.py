@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = '公路桥梁技术状况评定标准<br /><br />JTG/T H21-2011'
-copyright = '哈尔滨工业大学' 
+copyright = ' ' 
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

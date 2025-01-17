@@ -13,10 +13,13 @@
   <h2 id="test111">公路桥梁技术状况评定标准</h2>
 
 
+ <b><br/><br/><font size="3">  Standards for Technical Condition Evaluation of Highway Bridges </font></b>
 
- Standards for Technical Condition Evaluation of Highway Bridges 
 
-  JTG/T H21-2011 
+  <b><br/><br/><br/><font size="4"> JTG/T H21-2011 </font></b>
+
+
+ 
 
 
  <body>
